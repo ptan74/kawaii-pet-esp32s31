@@ -1,0 +1,7 @@
+build/
+build-sim/
+.gateway/
+.codex-runs/
+managed_components/
+.DS_Store
+*.irisfw
